@@ -1,5 +1,5 @@
 # Hi there 👋 my name is Juan Perez.
-## I am computer science major at Valencia College in Orlando, Florida with a graduation date of August, 2023.
+## I am computer science major at Valencia College in Orlando, Florida with a graduation date of December, 2022.
 
 I am currently working with Cvent as a Software Engineer Intern!
 
